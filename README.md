@@ -1,2 +1,2 @@
 # HPV_OPC_spatial_transcriptomics
-Analysis code for sSpatial organization of HPV-associated immune programs across tissue compartments in oropharyngeal cancer
+Analysis code for Spatial organization of HPV-associated immune programs across tissue compartments in oropharyngeal cancer
