@@ -1,0 +1,7 @@
+This file is a placeholder for the exact R session information used for the archived release.
+
+On the Windows analysis computer, from the repository root, run:
+
+capture.output(sessionInfo(), file = "sessionInfo.txt")
+
+Then commit sessionInfo.txt and remove this template before creating the final GitHub release / Zenodo archive.

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and the archived software release."
+title: "Analysis code for spatial organization of HPV-associated immune programs across tissue compartments in oropharyngeal cancer"
+type: software
+authors:
+  - family-names: Wakisaka
+    given-names: Naohiro
+version: 1.0.0
+date-released: 2026-09-13
+license: MIT
+repository-code: "https://github.com/wakisaka805-cpu/HPV_OPC_spatial_transcriptomics"
